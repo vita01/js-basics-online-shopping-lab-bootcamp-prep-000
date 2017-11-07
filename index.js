@@ -25,7 +25,7 @@ var len =cart.length;
   var str ='In your cart, you have ';
   if(len===0){
   str='Your shopping cart is empty.';
- } 
+ }
  for (key in cart){
 //console.log(key);
 }
